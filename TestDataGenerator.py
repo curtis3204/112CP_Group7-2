@@ -7,8 +7,8 @@ data = []
 
 ArrayLength = 1000
 # Sample Number Range
-MinBoundary = -100000000000000000000000
-MaxBoundary = 1000000000000000000000000
+MinBoundary = -1000000000000
+MaxBoundary = 10000000000000
 
 DecimalBoundary = 10
 
