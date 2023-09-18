@@ -1,6 +1,6 @@
-## 說明 ##
+## Problem ##
 
-Give a list of integer, print out the largest and smallest number.<br>
+One Piece has a treasure map. This treasure map is represented by a list of integer number, and each number is an important clue. Your task is to help him find the largest and smallest numbers from this list to unlock the location of the treasure.<br>
 
 
 
