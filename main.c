@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 int main(void) {
-  int max, min, temp;
-  scanf("%d", &temp);
+  double max, min, temp;
+  scanf("%lf", &temp);
   max = temp;
   min = temp;
-  while (scanf("%d", &temp) != EOF) {
+  while (scanf("%lf", &temp) != EOF) {
     if (temp > max) {
       max = temp;
     } else if (temp < min) {
       min = temp;
     }
   }
-  printf("%d,%d", max, min);
+  printf("%lf,%lf", max, min);
   return 0;
 }
