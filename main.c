@@ -12,6 +12,6 @@ int main(void) {
       min = temp;
     }
   }
-  printf("%lf,%lf", max, min);
+  printf("%g,%g\n", max, min);
   return 0;
 }
